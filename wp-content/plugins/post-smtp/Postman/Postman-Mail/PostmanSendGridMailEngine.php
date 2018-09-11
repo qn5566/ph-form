@@ -181,7 +181,7 @@ if ( ! class_exists( 'PostmanSendGridMailEngine' ) ) {
 					$this->logger->debug( 'Sending mail' );
 				}
 
-				$response = $sendgrid->client->mail()->send()->post($mail);
+				$response = $sendgrid->client->wp_mail()->send()->post($mail);
 				if ( $this->logger->isInfo() ) {
 					$this->logger->info( sprintf( 'Message %d accepted for delivery', PostmanState::getInstance()->getSuccessfulDeliveries() + 1 ) );
 				}
