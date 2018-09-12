@@ -1352,7 +1352,7 @@ msgstr ""
 
 #: Postman/PostmanViewController.php:132
 msgid ""
-"Postman is unable to run. Email delivery is being handled by WordPress (or "
+"Postman is unable to run. Email delivery is being handled by MeetStudio (or "
 "another plugin)."
 msgstr ""
 

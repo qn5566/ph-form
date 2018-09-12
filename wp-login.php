@@ -114,8 +114,8 @@ function login_header( $title = 'Log In', $message = '', $wp_error = null ) {
 		$login_header_url   = network_home_url();
 		$login_header_title = get_network()->site_name;
 	} else {
-		$login_header_url   = __( 'https://wordpress.org/' );
-		$login_header_title = __( 'Powered by WordPress' );
+		$login_header_url   = __( 'http://lifunny.me/home-page/' );
+		$login_header_title = __( 'Powered by MeetStudio' );
 	}
 
 	/**

@@ -1,5 +1,5 @@
-# Translation of Plugins - Jetpack by WordPress.com - Stable (latest release) in Chinese (Taiwan)
-# This file is distributed under the same license as the Plugins - Jetpack by WordPress.com - Stable (latest release) package.
+# Translation of Plugins - Jetpack by MeetStudio.com - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Jetpack by MeetStudio.com - Stable (latest release) package.
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2018-08-24 13:04:08+0000\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: GlotPress/2.4.0-alpha\n"
 "Language: zh_TW\n"
-"Project-Id-Version: Plugins - Jetpack by WordPress.com - Stable (latest release)\n"
+"Project-Id-Version: Plugins - Jetpack by MeetStudio.com - Stable (latest release)\n"
 
 #: modules/widgets/simple-payments.php:274
 msgid "Invalid parameters."
@@ -9969,8 +9969,8 @@ msgid "Proudly powered by %s"
 msgstr "自豪的使用  %s"
 
 #: modules/infinite-scroll/infinity.php:1545
-msgid "Proudly powered by WordPress"
-msgstr "由 WordPress 提供絕佳技術支援"
+msgid "Proudly powered by MeetStudio"
+msgstr "由 MeetStudio 提供絕佳技術支援"
 
 #: modules/gravatar-hovercards.php:90
 msgid "Put your mouse over your Gravatar to check out your profile."
@@ -12483,12 +12483,12 @@ msgstr "你已成功與 Jetpack 中斷連結"
 msgid "Your website needs to be publicly accessible to use Jetpack: %(error_key)s"
 msgstr "你的網站必須允許公開存取才能使用 Jetpack：%(error_key)s"
 
-#. #-#-#-#-#  jetpack-code.pot (Jetpack by WordPress.com 6.4.1)  #-#-#-#-#
+#. #-#-#-#-#  jetpack-code.pot (Jetpack by MeetStudio.com 6.4.1)  #-#-#-#-#
 #. Plugin Name of the plugin/theme
 #: class.jetpack.php:3815 class.jetpack.php:3828 class.jetpack.php:4810
 #: views/admin/network-admin-header.php:5
-msgid "Jetpack by WordPress.com"
-msgstr "Jetpack by WordPress.com"
+msgid "Jetpack by MeetStudio.com"
+msgstr "Jetpack by MeetStudio.com"
 
 #: class.jetpack-cli.php:443
 msgctxt "\"wp jetpack module activate\" is a command - do not translate"

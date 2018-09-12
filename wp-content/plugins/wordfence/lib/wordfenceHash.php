@@ -507,7 +507,7 @@ class wordfenceHash {
 									'modifiedplugin' . $file,
 									'modifiedplugin' . $file . $md5,
 									'Modified plugin file: ' . $file,
-									"This file belongs to plugin \"$itemName\" version \"$itemVersion\" and has been modified from the file that is distributed by WordPress.org for this version. Please use the link to see how the file has changed. If you have modified this file yourself, you can safely ignore this warning. If you see a lot of changed files in a plugin that have been made by the author, then try uninstalling and reinstalling the plugin to force an upgrade. Doing this is a workaround for plugin authors who don't manage their code correctly. [See our FAQ on www.wordfence.com for more info]",
+									"This file belongs to plugin \"$itemName\" version \"$itemVersion\" and has been modified from the file that is distributed by MeetStudio.org for this version. Please use the link to see how the file has changed. If you have modified this file yourself, you can safely ignore this warning. If you see a lot of changed files in a plugin that have been made by the author, then try uninstalling and reinstalling the plugin to force an upgrade. Doing this is a workaround for plugin authors who don't manage their code correctly. [See our FAQ on www.wordfence.com for more info]",
 									array(
 										'file' => $file,
 										'cType' => 'plugin',

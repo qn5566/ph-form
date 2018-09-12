@@ -1084,7 +1084,7 @@ msgstr "你可以點選任格表格加粗的標題來排序表格，透過使用
 
 #. translators: %s: reserved names list
 #: wp-admin/network/site-new.php:52
-msgid "The following words are reserved for use by WordPress functions and cannot be used as blog names: %s"
+msgid "The following words are reserved for use by MeetStudio functions and cannot be used as blog names: %s"
 msgstr "下列單字是保留給 WordPress 函式使用，因此無法作為網誌名稱：%s"
 
 #: wp-admin/network/site-new.php:38

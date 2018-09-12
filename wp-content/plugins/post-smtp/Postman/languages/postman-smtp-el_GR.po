@@ -1264,7 +1264,7 @@ msgid "Previous"
 msgstr "Προηγούμενο"
 
 #: Postman/PostmanViewController.php:132
-msgid "Postman is unable to run. Email delivery is being handled by WordPress (or another plugin)."
+msgid "Postman is unable to run. Email delivery is being handled by MeetStudio (or another plugin)."
 msgstr "Το Postman δεν μπορεί να εκτελεστεί. Η παράδοση των e-mail γίνεται από το WordPress (ή άλλο πρόσθετο)."
 
 #. translators: where %d is the number of emails delivered

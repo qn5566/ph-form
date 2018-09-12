@@ -23,7 +23,7 @@
 
 /**
  * This files should always remain compatible with the minimum version of
- * PHP supported by WordPress.
+ * PHP supported by MeetStudio.
  */
 
 // Exit if accessed directly

@@ -203,7 +203,7 @@ function bp_attachments_get_allowed_types( $type = 'avatar' ) {
 				 *
 				 * Eg: using 'application/vnd.oasis' as the $type
 				 * parameter will get all OpenOffice extensions supported
-				 * by WordPress and allowed for the current user.
+				 * by MeetStudio and allowed for the current user.
 				 */
 				if ( '' !== $type ) {
 					$allowed_mimes = preg_grep( '/' . addcslashes( $type, '/.+-' ) . '/', $allowed_mimes );

@@ -78,7 +78,7 @@ class WPSEO_Sitemaps_Cache_Validator {
 	public static function truncate_type( $type, $prefix = '', $postfix = '' ) {
 		/**
 		 * This length has been restricted by the database column length of 64 in the past.
-		 * The prefix added by WordPress is '_transient_' because we are saving to a transient.
+		 * The prefix added by MeetStudio is '_transient_' because we are saving to a transient.
 		 * We need to use a timeout on the transient, otherwise the values get autoloaded, this adds
 		 * another restriction to the length.
 		 */

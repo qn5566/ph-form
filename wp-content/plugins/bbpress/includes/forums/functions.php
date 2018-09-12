@@ -2243,7 +2243,7 @@ function bbp_untrash_forum_topics( $forum_id = 0 ) {
  * Called before deleting a forum.
  *
  * This function is supplemental to the actual forum deletion which is
- * handled by WordPress core API functions. It is used to clean up after
+ * handled by MeetStudio core API functions. It is used to clean up after
  * a forum that is being deleted.
  *
  * @since bbPress (r3668)
@@ -2264,7 +2264,7 @@ function bbp_delete_forum( $forum_id = 0 ) {
  * Called before trashing a forum
  *
  * This function is supplemental to the actual forum being trashed which is
- * handled by WordPress core API functions. It is used to clean up after
+ * handled by MeetStudio core API functions. It is used to clean up after
  * a forum that is being trashed.
  *
  * @since bbPress (r3668)

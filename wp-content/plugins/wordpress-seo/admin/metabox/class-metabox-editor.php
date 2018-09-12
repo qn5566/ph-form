@@ -46,7 +46,7 @@ class WPSEO_Metabox_Editor {
 	/**
 	 * Adds a custom element to the tinyMCE editor that we need for marking the content.
 	 *
-	 * @param array $tinymce_config The tinyMCE config as configured by WordPress.
+	 * @param array $tinymce_config The tinyMCE config as configured by MeetStudio.
 	 *
 	 * @return array The new tinyMCE config with our added custom elements.
 	 */

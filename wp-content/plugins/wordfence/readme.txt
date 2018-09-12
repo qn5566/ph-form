@@ -459,7 +459,7 @@ Secure your website with Wordfence.
 * Improvement: Support for exporting a list of all blocked and locked out IP addresses.
 * Improvement: Updated the WAF's CA certificate bundle.
 * Improvement: Updated the browscap database.
-* Improvement: Suppressed the automatic HTTP referer added by WordPress for API calls to reduce overall bandwidth usage.
+* Improvement: Suppressed the automatic HTTP referer added by MeetStudio for API calls to reduce overall bandwidth usage.
 * Improvement: When all issues for a scan stage have been previously ignored, the results now indicate this rather than saying problems were found.
 * Fix: Worked around an issue with WordPress caching to allow password audits to succeed on sites with tens of thousands of users.
 * Fix: Fixed an IPv6 detection issue with one form of IPv6 address.

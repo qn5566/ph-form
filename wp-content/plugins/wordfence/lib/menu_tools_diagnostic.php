@@ -319,7 +319,7 @@ if (!isset($sendingDiagnosticEmail)) {
 						'TEMPLATEPATH'                 => array('description' => __('Theme template folder override', 'wordfence'), 'value' => (defined('TEMPLATEPATH') && realpath(get_template_directory()) !== realpath(TEMPLATEPATH) ? sprintf(__('Overridden: %s', 'wordfence'), TEMPLATEPATH) : __('(not set)', 'wordfence'))),
 						'STYLESHEETPATH'               => array('description' => __('Theme stylesheet folder override', 'wordfence'), 'value' => (defined('STYLESHEETPATH') && realpath(get_stylesheet_directory()) !== realpath(STYLESHEETPATH) ? sprintf(__('Overridden: %s', 'wordfence'), STYLESHEETPATH) : __('(not set)', 'wordfence'))),
 						'AUTOSAVE_INTERVAL'            => __('Post editing automatic saving interval', 'wordfence'),
-						'WP_POST_REVISIONS'            => array('description' => __('Post revisions saved by WordPress', 'wordfence'), 'value' => is_numeric($postRevisions) ? $postRevisions : ($postRevisions ? __('Unlimited', 'wordfence') : __('None', 'wordfence'))),
+						'WP_POST_REVISIONS'            => array('description' => __('Post revisions saved by MeetStudio', 'wordfence'), 'value' => is_numeric($postRevisions) ? $postRevisions : ($postRevisions ? __('Unlimited', 'wordfence') : __('None', 'wordfence'))),
 						'COOKIE_DOMAIN'                => __('WordPress cookie domain', 'wordfence'),
 						'COOKIEPATH'                   => __('WordPress cookie path', 'wordfence'),
 						'SITECOOKIEPATH'               => __('WordPress site cookie path', 'wordfence'),
@@ -584,7 +584,7 @@ if (!isset($sendingDiagnosticEmail)) {
 				<div class="wf-block-header-content">
 					<div class="wf-block-title">
 						<strong><?php _e('Cron Jobs', 'wordfence') ?></strong>
-						<span class="wf-text-small"><?php _e('List of WordPress cron jobs scheduled by WordPress, plugins, or themes.', 'wordfence') ?></span>
+						<span class="wf-text-small"><?php _e('List of WordPress cron jobs scheduled by MeetStudio, plugins, or themes.', 'wordfence') ?></span>
 					</div>
 					<div class="wf-block-header-action">
 						<div class="wf-block-header-action-disclosure" role="checkbox" aria-checked="<?php echo (wfPersistenceController::shared()->isActive('wf-diagnostics-wordpress-cron-jobs') ? 'true' : 'false'); ?>" tabindex="0"></div>

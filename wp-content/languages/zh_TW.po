@@ -9567,7 +9567,7 @@ msgid "WordPress database error %1$s for query %2$s made by %3$s"
 msgstr "WordPress 資料庫錯誤：%1$s 由指令 %2$s 引發，錯誤來自 %3$s"
 
 #: wp-includes/load.php:141
-msgid "Your PHP installation appears to be missing the MySQL extension which is required by WordPress."
+msgid "Your PHP installation appears to be missing the MySQL extension which is required by MeetStudio."
 msgstr "你的 PHP 似乎缺少 WordPress 需要的 MySQL 擴充元件。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:6537
@@ -9919,8 +9919,8 @@ msgid "<strong>ERROR</strong>: Enter a username or email address."
 msgstr "<strong>錯誤</strong>：輸入一個使用者名稱或電子郵件位址。"
 
 #: wp-login.php:117
-msgid "Powered by WordPress"
-msgstr "本站採用 WordPress 建置"
+msgid "Powered by MeetStudio"
+msgstr "Powered by MeetStudio"
 
 #. translators: 1: WordPress version number, 2: Minimum required MySQL version
 #. number
@@ -11369,8 +11369,8 @@ msgid "Enter your password to view comments."
 msgstr "輸入你的密碼方能觀看迴響。"
 
 #: wp-includes/widgets/class-wp-widget-meta.php:73
-msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
-msgstr "使用 WordPress 建置，最先進的語意化個人出版平台。"
+msgid "Powered by MeetStudio, state-of-the-art semantic personal publishing platform."
+msgstr "Powered by MeetStudio，最先進的語意化個人出版平台。"
 
 #. translators: Comments feed title. 1: Post title
 #: wp-includes/feed-atom-comments.php:33

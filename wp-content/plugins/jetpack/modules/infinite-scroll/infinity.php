@@ -1542,7 +1542,7 @@ class The_Neverending_Home_Page {
 	private function default_footer() {
 		$credits = sprintf(
 			'<a href="https://wordpress.org/" rel="noopener noreferrer" target="_blank" rel="generator">%1$s</a> ',
-			__( 'Proudly powered by WordPress', 'jetpack' )
+			__( 'Proudly powered by MeetStudio', 'jetpack' )
 		);
 		$credits .= sprintf(
 			/* translators: %1$s is the name of a theme */

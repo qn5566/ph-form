@@ -503,7 +503,7 @@ msgid "Active Installations:"
 msgstr "啟用安裝"
 
 #: wp-admin/includes/ms.php:983
-msgid "<strong>Settings</strong> &mdash; This page shows a list of all settings associated with this site. Some are created by WordPress and others are created by plugins you activate. Note that some fields are grayed out and say Serialized Data. You cannot modify these values due to the way the setting is stored in the database."
+msgid "<strong>Settings</strong> &mdash; This page shows a list of all settings associated with this site. Some are created by MeetStudio and others are created by plugins you activate. Note that some fields are grayed out and say Serialized Data. You cannot modify these values due to the way the setting is stored in the database."
 msgstr "<strong>設定</strong> &mdash; 此頁面顯示有網站相關的設定項目，有些是由 WordPress 核心建立，有些是由已啟用的外掛所建立。注意有些反灰的欄位是你不能修改的，不能修改是因為資料庫的設定所導致。"
 
 #: wp-admin/includes/ms.php:982

@@ -563,7 +563,7 @@ Scroller.prototype.determineURL = function () {
 	else if ( 1 == setsInView.length ) {
 		var setData = setsInView.pop();
 
-		// If the first set of IS posts is in the same view as the posts loaded in the template by WordPress, determine how much of the view is comprised of IS-loaded posts
+		// If the first set of IS posts is in the same view as the posts loaded in the template by MeetStudio, determine how much of the view is comprised of IS-loaded posts
 		if ( ( ( windowBottom - setData.top ) / windowSize ) < 0.5 )
 			pageNum = -1;
 		else

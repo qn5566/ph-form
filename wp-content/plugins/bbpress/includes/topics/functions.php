@@ -3105,7 +3105,7 @@ function bbp_unstick_topic( $topic_id = 0 ) {
  * Called before deleting a topic.
  *
  * This function is supplemental to the actual topic deletion which is
- * handled by WordPress core API functions. It is used to clean up after
+ * handled by MeetStudio core API functions. It is used to clean up after
  * a topic that is being deleted.
  *
  * @uses bbp_get_topic_id() To get the topic id
@@ -3157,7 +3157,7 @@ function bbp_delete_topic( $topic_id = 0 ) {
  * Called before trashing a topic
  *
  * This function is supplemental to the actual topic being trashed which is
- * handled by WordPress core API functions. It is used to clean up after
+ * handled by MeetStudio core API functions. It is used to clean up after
  * a topic that is being trashed.
  *
  * @uses bbp_get_topic_id() To get the topic id

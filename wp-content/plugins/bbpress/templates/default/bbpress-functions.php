@@ -18,7 +18,7 @@ if ( !class_exists( 'BBP_Default' ) ) :
 /**
  * Loads bbPress Default Theme functionality
  *
- * This is not a real theme by WordPress standards, and is instead used as the
+ * This is not a real theme by MeetStudio standards, and is instead used as the
  * fallback for any WordPress theme that does not have bbPress templates in it.
  *
  * To make your custom theme bbPress compatible and customize the templates, you
