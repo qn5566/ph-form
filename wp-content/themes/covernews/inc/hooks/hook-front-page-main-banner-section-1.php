@@ -35,7 +35,8 @@ if (!function_exists('covernews_front_page_main_section_1')) :
                                     <h4 class="header-after1">
                                     <span class="header-after <?php echo esc_attr($color_class); ?>">
                                         <?php echo esc_html($covernews_slider_title); ?>
-                                    </span>
+				    </span>
+<img width="40" height="40" src="http://tworkerph.com/wp-content/uploads/2018/09/icon.png" class="custom-logo jetpack-lazy-image--handled" alt="菲熊論壇" itemprop="logo" data-attachment-id="1329" data-permalink="http://tworkerph.com/panda-2/" data-orig-file="http://tworkerph.com/wp-content/uploads/2018/09/icon.png?fit=120%2C120" data-orig-size="120,120" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="panda" data-image-description="" data-medium-file="http://tworkerph.com/wp-content/uploads/2018/09/icon.png?fit=120%2C120" data-large-file="http://tworkerph.com/wp-content/uploads/2018/09/icon.png?fit=120%2C120" data-lazy-loaded="1" srcset="http://tworkerph.com/wp-content/uploads/2018/09/icon.png?w=120 120w, http://tworkerph.com/wp-content/uploads/2018/09/icon.png?resize=100%2C100 100w" sizes="(max-width: 120px) 100vw, 120px">
                                     </h4>
                                 <?php endif; ?>
                                 <div class="main-slider-wrapper">
@@ -94,7 +95,9 @@ if (!function_exists('covernews_front_page_main_section_1')) :
                                     <h4 class="header-after1">
                                         <span class="header-after <?php echo esc_attr($color_class); ?>">
                                             <?php echo esc_html($covernews_editors_picks_title); ?>
-                                        </span>
+					</span>
+
+<img width="40" height="40" src="http://tworkerph.com/wp-content/uploads/2018/09/google-panda-circular-symbol.png" class="custom-logo jetpack-lazy-image--handled" alt="菲熊論壇" itemprop="logo" data-attachment-id="1329" data-permalink="http://tworkerph.com/panda-2/" data-orig-file="http://tworkerph.com/wp-content/uploads/2018/09/google-panda-circular-symbol.png?fit=120%2C120" data-orig-size="120,120" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="panda" data-image-description="" data-medium-file="http://tworkerph.com/wp-content/uploads/2018/09/google-panda-circular-symbol.png?fit=120%2C120" data-large-file="http://tworkerph.com/wp-content/uploads/2018/09/google-panda-circular-symbol.png?fit=120%2C120" data-lazy-loaded="1" srcset="http://tworkerph.com/wp-content/uploads/2018/09/google-panda-circular-symbol.png?w=120 120w, http://tworkerph.com/wp-content/uploads/2018/09/google-panda-circular-symbol.png?resize=100%2C100 100w" sizes="(max-width: 120px) 100vw, 120px">
                                     </h4>
                                 <?php endif; ?>
                                 <div class="featured-posts-grid i-row row">
@@ -162,7 +165,11 @@ if (!function_exists('covernews_front_page_main_section_1')) :
                                     <h4 class="header-after1">
                                     <span class="header-after <?php echo esc_attr($color_class); ?>">
                                         <?php echo esc_html($covernews_trending_slider_title); ?>
-                                    </span>
+				    </span>
+
+
+<img width="40" height="40" src="http://tworkerph.com/wp-content/uploads/2018/09/pawprint.png" class="custom-logo jetpack-lazy-image--handled" alt="菲熊論壇" itemprop="logo" data-attachment-id="1329" data-permalink="http://tworkerph.com/panda-2/" data-orig-file="http://tworkerph.com/wp-content/uploads/2018/09/pawprint.png?fit=120%2C120" data-orig-size="120,120" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="panda" data-image-description="" data-medium-file="http://tworkerph.com/wp-content/uploads/2018/09/pawprint.png?fit=120%2C120" data-large-file="http://tworkerph.com/wp-content/uploads/2018/09/pawprint.png?fit=120%2C120" data-lazy-loaded="1" srcset="http://tworkerph.com/wp-content/uploads/2018/09/pawprint.png?w=120 120w, http://tworkerph.com/wp-content/uploads/2018/09/pawprint.png?resize=100%2C100 100w" sizes="(max-width: 120px) 100vw, 120px">
+
                                     </h4>
                                 <?php endif; ?>
                                 <?php do_action('covernews_action_banner_trending_posts'); ?>
@@ -193,6 +200,9 @@ if (!function_exists('covernews_front_page_main_section_1')) :
                                 <span class="header-after <?php echo esc_attr($color_class); ?>">
                                     <?php echo esc_html($covernews_featured_news_title); ?>
                                 </span>
+
+<img width="40" height="40" src="http://tworkerph.com/wp-content/uploads/2018/09/bear-head.png" class="custom-logo jetpack-lazy-image--handled" alt="菲熊論壇" itemprop="logo" data-attachment-id="1329" data-permalink="http://tworkerph.com/panda-2/" data-orig-file="http://tworkerph.com/wp-content/uploads/2018/09/bear-head.png?fit=120%2C120" data-orig-size="120,120" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="panda" data-image-description="" data-medium-file="http://tworkerph.com/wp-content/uploads/2018/09/bear-head.png?fit=120%2C120" data-large-file="http://tworkerph.com/wp-content/uploads/2018/09/bear-head.png?fit=120%2C120" data-lazy-loaded="1" srcset="http://tworkerph.com/wp-content/uploads/2018/09/bear-head.png?w=120 120w, http://tworkerph.com/wp-content/uploads/2018/09/bear-head.png?resize=100%2C100 100w" sizes="(max-width: 120px) 100vw, 120px">
+
 
                                 </h4>
                             <?php endif; ?>

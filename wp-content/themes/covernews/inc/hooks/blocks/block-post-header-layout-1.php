@@ -80,13 +80,13 @@ endif;
     <div class="masthead-banner <?php echo esc_attr($class); ?>" data-background="<?php echo esc_attr($background); ?>">
         <div class="container">
             <div class="row">
-                <div class="site-branding">
+                <div class="col-md-1" style="margin: 10px auto;">
                     <?php
                     the_custom_logo();
                     ?>
                 </div>
                 <div class="col-md-4">
-                    <div class="site-branding">
+                    <div class="site-branding" style="margin: 20px auto;">
                         <?php
                         if (is_front_page() || is_home()) : ?>
                             <h1 class="site-title font-family-1">
@@ -108,7 +108,7 @@ endif;
                         endif; ?>
                     </div>
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-7">
                     <?php
                     $advertisement_scope = covernews_get_option('banner_advertisement_scope');
                     if ($advertisement_scope == 'site-wide') {
