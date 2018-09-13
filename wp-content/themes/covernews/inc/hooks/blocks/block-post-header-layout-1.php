@@ -132,50 +132,175 @@ endif;
 
         <div class="container">
             <div class="row">
-                <div class="col-md-1" style="margin: 10px auto;">
-                    <?php
-                    the_custom_logo();
-                    ?>
+                <div class="col-md-3" style="margin: 0 auto;">
+
+                    <img width="120" height="50" src="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png"
+                         class="custom-logo jetpack-lazy-image--handled" alt="菲熊論壇" itemprop="logo"
+                         data-attachment-id="1329" data-permalink="http://tworkerph.com/panda-2/"
+                         data-orig-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-orig-size="120,120" data-comments-opened="1"
+                         data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;
+                         camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;
+                         created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;
+                         focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;
+                         shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;
+                         orientation&quot;:&quot;0&quot;}" data-image-title="panda" data-image-description=""
+                         data-medium-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-large-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-lazy-loaded="1" srcset="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?w=120 120w,
+                         http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?resize=100%2C100 100w" sizes="(max-width: 120px) 100vw, 120px">
+
+
                 </div>
-                <div class="col-md-4">
-                    <div class="site-branding" style="margin: 20px auto;">
-                        <?php
-                        if (is_front_page() || is_home()) : ?>
-                            <h1 class="site-title font-family-1">
-                                <a href="<?php echo esc_url(home_url('/')); ?>"
-                                   rel="home"><?php bloginfo('name'); ?></a>
-                            </h1>
-                        <?php else : ?>
-                            <p class="site-title font-family-1">
-                                <a href="<?php echo esc_url(home_url('/')); ?>"
-                                   rel="home"><?php bloginfo('name'); ?></a>
-                            </p>
-                        <?php endif; ?>
 
-                        <?php
-                        $description = get_bloginfo('description', 'display');
-                        if ($description || is_customize_preview()) : ?>
-                            <p class="site-description"><?php echo esc_html($description); ?></p>
-                            <?php
-                        endif; ?>
-                    </div>
+                <div class="col-md-3" style="margin: 0 auto;">
+
+                    <img width="120" height="50" src="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png"
+                         class="custom-logo jetpack-lazy-image--handled" alt="菲熊論壇" itemprop="logo"
+                         data-attachment-id="1329" data-permalink="http://tworkerph.com/panda-2/"
+                         data-orig-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-orig-size="120,120" data-comments-opened="1"
+                         data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;
+                         camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;
+                         created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;
+                         focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;
+                         shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;
+                         orientation&quot;:&quot;0&quot;}" data-image-title="panda" data-image-description=""
+                         data-medium-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-large-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-lazy-loaded="1" srcset="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?w=120 120w,
+                         http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?resize=100%2C100 100w" sizes="(max-width: 120px) 100vw, 120px">
+
+
                 </div>
-                <div class="col-md-7">
-                    <?php
-                    $advertisement_scope = covernews_get_option('banner_advertisement_scope');
-                    if ($advertisement_scope == 'site-wide') {
 
-                        do_action('covernews_action_banner_advertisement');
-                    } else {
+                <div class="col-md-3" style="margin: 0 auto;">
 
-                        if (is_front_page() || is_home()) {
-                            do_action('covernews_action_banner_advertisement');
-                        }
+                    <img width="120" height="50" src="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png"
+                         class="custom-logo jetpack-lazy-image--handled" alt="菲熊論壇" itemprop="logo"
+                         data-attachment-id="1329" data-permalink="http://tworkerph.com/panda-2/"
+                         data-orig-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-orig-size="120,120" data-comments-opened="1"
+                         data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;
+                         camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;
+                         created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;
+                         focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;
+                         shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;
+                         orientation&quot;:&quot;0&quot;}" data-image-title="panda" data-image-description=""
+                         data-medium-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-large-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-lazy-loaded="1" srcset="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?w=120 120w,
+                         http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?resize=100%2C100 100w" sizes="(max-width: 120px) 100vw, 120px">
 
 
-                    }
-                    ?>
                 </div>
+
+                <div class="col-md-3" style="margin: 0 auto;">
+
+                    <img width="120" height="50" src="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png"
+                         class="custom-logo jetpack-lazy-image--handled" alt="菲熊論壇" itemprop="logo"
+                         data-attachment-id="1329" data-permalink="http://tworkerph.com/panda-2/"
+                         data-orig-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-orig-size="120,120" data-comments-opened="1"
+                         data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;
+                         camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;
+                         created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;
+                         focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;
+                         shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;
+                         orientation&quot;:&quot;0&quot;}" data-image-title="panda" data-image-description=""
+                         data-medium-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-large-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-lazy-loaded="1" srcset="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?w=120 120w,
+                         http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?resize=100%2C100 100w" sizes="(max-width: 120px) 100vw, 120px">
+
+
+                </div>
+
+                <div class="col-md-3" style="margin: 0 auto;">
+
+                    <img width="120" height="50" src="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png"
+                         class="custom-logo jetpack-lazy-image--handled" alt="菲熊論壇" itemprop="logo"
+                         data-attachment-id="1329" data-permalink="http://tworkerph.com/panda-2/"
+                         data-orig-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-orig-size="120,120" data-comments-opened="1"
+                         data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;
+                         camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;
+                         created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;
+                         focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;
+                         shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;
+                         orientation&quot;:&quot;0&quot;}" data-image-title="panda" data-image-description=""
+                         data-medium-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-large-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-lazy-loaded="1" srcset="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?w=120 120w,
+                         http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?resize=100%2C100 100w" sizes="(max-width: 120px) 100vw, 120px">
+
+
+                </div>
+
+                <div class="col-md-3" style="margin: 0 auto;">
+
+                    <img width="120" height="50" src="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png"
+                         class="custom-logo jetpack-lazy-image--handled" alt="菲熊論壇" itemprop="logo"
+                         data-attachment-id="1329" data-permalink="http://tworkerph.com/panda-2/"
+                         data-orig-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-orig-size="120,120" data-comments-opened="1"
+                         data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;
+                         camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;
+                         created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;
+                         focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;
+                         shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;
+                         orientation&quot;:&quot;0&quot;}" data-image-title="panda" data-image-description=""
+                         data-medium-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-large-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-lazy-loaded="1" srcset="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?w=120 120w,
+                         http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?resize=100%2C100 100w" sizes="(max-width: 120px) 100vw, 120px">
+
+
+                </div>
+
+                <div class="col-md-3" style="margin: 0 auto;">
+
+                    <img width="120" height="50" src="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png"
+                         class="custom-logo jetpack-lazy-image--handled" alt="菲熊論壇" itemprop="logo"
+                         data-attachment-id="1329" data-permalink="http://tworkerph.com/panda-2/"
+                         data-orig-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-orig-size="120,120" data-comments-opened="1"
+                         data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;
+                         camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;
+                         created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;
+                         focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;
+                         shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;
+                         orientation&quot;:&quot;0&quot;}" data-image-title="panda" data-image-description=""
+                         data-medium-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-large-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-lazy-loaded="1" srcset="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?w=120 120w,
+                         http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?resize=100%2C100 100w" sizes="(max-width: 120px) 100vw, 120px">
+
+
+                </div>
+
+                <div class="col-md-3" style="margin: 0 auto;">
+
+                    <img width="120" height="50" src="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png"
+                         class="custom-logo jetpack-lazy-image--handled" alt="菲熊論壇" itemprop="logo"
+                         data-attachment-id="1329" data-permalink="http://tworkerph.com/panda-2/"
+                         data-orig-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-orig-size="120,120" data-comments-opened="1"
+                         data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;
+                         camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;
+                         created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;
+                         focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;
+                         shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;
+                         orientation&quot;:&quot;0&quot;}" data-image-title="panda" data-image-description=""
+                         data-medium-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-large-file="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?fit=120%2C120"
+                         data-lazy-loaded="1" srcset="http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?w=120 120w,
+                         http://tworkerph.com/wp-content/uploads/2018/09/banner-003.png?resize=100%2C100 100w" sizes="(max-width: 120px) 100vw, 120px">
+
+
+                </div>
+
+
             </div>
         </div>
 
