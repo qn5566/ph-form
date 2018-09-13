@@ -2,143 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39ef8ad4-e644-44a6-a952-44ec63c6f240" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-admin/includes/export.php" afterPath="$PROJECT_DIR$/wp-admin/includes/export.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-admin/includes/ms.php" afterPath="$PROJECT_DIR$/wp-admin/includes/ms.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-admin/install-helper.php" afterPath="$PROJECT_DIR$/wp-admin/install-helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-admin/network/site-new.php" afterPath="$PROJECT_DIR$/wp-admin/network/site-new.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/admin-network-zh_TW.po" afterPath="$PROJECT_DIR$/wp-content/languages/admin-network-zh_TW.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/admin-zh_TW.po" afterPath="$PROJECT_DIR$/wp-content/languages/admin-zh_TW.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/plugins/jetpack-zh_TW.po" afterPath="$PROJECT_DIR$/wp-content/languages/plugins/jetpack-zh_TW.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/plugins/post-smtp-zh_TW.po" afterPath="$PROJECT_DIR$/wp-content/languages/plugins/post-smtp-zh_TW.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/zh_TW.po" afterPath="$PROJECT_DIR$/wp-content/languages/zh_TW.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/AEF.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/AEF.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Drupal7.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Drupal7.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Example.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Example.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/FluxBB.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/FluxBB.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Invision.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Invision.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Kunena1.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Kunena1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Kunena2.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Kunena2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Kunena3.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Kunena3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Mingle.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Mingle.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/MyBB.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/MyBB.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/PHPFox3.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/PHPFox3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/PHPWind.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/PHPWind.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Phorum.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Phorum.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/PunBB.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/PunBB.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/SMF.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/SMF.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/SimplePress5.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/SimplePress5.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Vanilla.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/Vanilla.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/XMB.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/XMB.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/XenForo.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/XenForo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/bbPress1.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/bbPress1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/vBulletin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/vBulletin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/vBulletin3.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/admin/converters/vBulletin3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/forums/functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/forums/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/topics/functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/includes/topics/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/bbpress/templates/default/bbpress-functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/bbpress/templates/default/bbpress-functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/buddypress/bp-core/bp-core-attachments.php" afterPath="$PROJECT_DIR$/wp-content/plugins/buddypress/bp-core/bp-core-attachments.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/buddypress/bp-loader.php" afterPath="$PROJECT_DIR$/wp-content/plugins/buddypress/bp-loader.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/buddypress/bp-members/bp-members-functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/buddypress/bp-members/bp-members-functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/buddypress/bp-templates/bp-legacy/buddypress-functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/buddypress/bp-templates/bp-legacy/buddypress-functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/class.jetpack.php" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/class.jetpack.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/jetpack.php" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/jetpack.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-af.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-af.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ar.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ar.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ary.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ary.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-az.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-az.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-bg_BG.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-bg_BG.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-bs_BA.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-bs_BA.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ca.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ca.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ckb.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ckb.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-cs_CZ.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-cs_CZ.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-cy.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-cy.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-da_DK.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-da_DK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-de_DE.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-de_DE.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-de_DE_formal.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-de_DE_formal.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-el.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-el.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-en_AU.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-en_AU.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-en_CA.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-en_CA.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-en_GB.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-en_GB.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-en_NZ.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-en_NZ.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-en_ZA.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-en_ZA.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-eo.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-eo.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-es_AR.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-es_AR.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-es_CL.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-es_CL.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-es_CR.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-es_CR.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-es_ES.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-es_ES.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-es_VE.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-es_VE.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-fa_IR.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-fa_IR.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-fi.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-fi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-fr_BE.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-fr_BE.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-fr_FR.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-fr_FR.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-gd.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-gd.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-gl_ES.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-gl_ES.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-he_IL.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-he_IL.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-hr.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-hr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-hu_HU.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-hu_HU.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-id_ID.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-id_ID.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-is_IS.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-is_IS.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-it_IT.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-it_IT.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ja.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ja.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ka_GE.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ka_GE.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ko_KR.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ko_KR.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-lt_LT.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-lt_LT.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-lv.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-lv.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-mk_MK.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-mk_MK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ms_MY.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ms_MY.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-nb_NO.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-nb_NO.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-nl_NL.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-nl_NL.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-nl_NL_formal.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-nl_NL_formal.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-nn_NO.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-nn_NO.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-pl_PL.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-pl_PL.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-pt_BR.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-pt_BR.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-pt_PT.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-pt_PT.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ro_RO.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ro_RO.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ru_RU.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ru_RU.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-si_LK.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-si_LK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-sk_SK.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-sk_SK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-sq.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-sq.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-sr_RS.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-sr_RS.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-sv_SE.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-sv_SE.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-te.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-te.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-th.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-th.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-tr_TR.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-tr_TR.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-uk.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-uk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ur.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-ur.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-vi.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-vi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-zh_CN.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-zh_CN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-zh_HK.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-zh_HK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-zh_TW.json" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/languages/json/jetpack-zh_TW.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.js" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.php" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/jetpack/views/admin/network-admin-header.php" afterPath="$PROJECT_DIR$/wp-content/plugins/jetpack/views/admin/network-admin-header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanSendGridMailEngine.php" afterPath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanSendGridMailEngine.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/PostmanViewController.php" afterPath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/PostmanViewController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/languages/postman-smtp-el_GR.po" afterPath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/languages/postman-smtp-el_GR.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/languages/postman-smtp-fr_FR.po" afterPath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/languages/postman-smtp-fr_FR.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/languages/postman-smtp-it_IT.po" afterPath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/languages/postman-smtp-it_IT.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/languages/postman-smtp-nl_NL.po" afterPath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/languages/postman-smtp-nl_NL.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/languages/postman-smtp-ru_RU.po" afterPath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/languages/postman-smtp-ru_RU.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/languages/postman-smtp-tr_TR.po" afterPath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/languages/postman-smtp-tr_TR.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/languages/postman-smtp-zh_CN.po" afterPath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/languages/postman-smtp-zh_CN.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/languages/postman-smtp.pot" afterPath="$PROJECT_DIR$/wp-content/plugins/post-smtp/Postman/languages/postman-smtp.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/wordfence/lib/menu_tools_diagnostic.php" afterPath="$PROJECT_DIR$/wp-content/plugins/wordfence/lib/menu_tools_diagnostic.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/wordfence/lib/wfDiagnostic.php" afterPath="$PROJECT_DIR$/wp-content/plugins/wordfence/lib/wfDiagnostic.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/wordfence/lib/wordfenceHash.php" afterPath="$PROJECT_DIR$/wp-content/plugins/wordfence/lib/wordfenceHash.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/wordfence/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/wordfence/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-editor.php" afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-editor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-replace-vars.php" afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-replace-vars.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/sitemaps/class-sitemaps-cache-validator.php" afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/sitemaps/class-sitemaps-cache-validator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Processor.php" afterPath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Processor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/covernews/demo-content/default/covernews.xml" afterPath="$PROJECT_DIR$/wp-content/themes/covernews/demo-content/default/covernews.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/covernews/demo-content/fashion/covernews.xml" afterPath="$PROJECT_DIR$/wp-content/themes/covernews/demo-content/fashion/covernews.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/covernews/demo-content/sport/covernews.xml" afterPath="$PROJECT_DIR$/wp-content/themes/covernews/demo-content/sport/covernews.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-includes/comment.php" afterPath="$PROJECT_DIR$/wp-includes/comment.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-includes/load.php" afterPath="$PROJECT_DIR$/wp-includes/load.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-includes/widgets/class-wp-widget-meta.php" afterPath="$PROJECT_DIR$/wp-includes/widgets/class-wp-widget-meta.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-login.php" afterPath="$PROJECT_DIR$/wp-login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/covernews/inc/hooks/blocks/block-post-header-layout-1.php" afterPath="$PROJECT_DIR$/wp-content/themes/covernews/inc/hooks/blocks/block-post-header-layout-1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/wflogs/config.php" afterPath="$PROJECT_DIR$/wp-content/wflogs/config.php" />
     </list>
     <ignored path="ph-form.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -154,22 +20,19 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="ph-form" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="class-buddypress.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/buddypress/class-buddypress.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.5">
-              <caret line="218" column="6" selection-start-line="218" selection-start-column="6" selection-end-line="218" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Options.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Mail/Options.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -187,13 +50,6 @@
               <caret line="116" column="67" selection-start-line="116" selection-start-column="67" selection-end-line="116" selection-end-column="67" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="w-logo-blue.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-includes/images/w-logo-blue.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -237,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="export.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="export.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-admin/includes/export.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4090909">
-              <caret line="419" column="72" selection-start-line="419" selection-start-column="72" selection-end-line="419" selection-end-column="72" />
+            <state vertical-scroll-proportion="-19.625">
+              <caret line="427" column="54" selection-start-line="427" selection-start-column="54" selection-end-line="427" selection-end-column="54" />
               <folding>
                 <marker date="1536721390000" expanded="true" signature="6013:6055" placeholder="SELECT ID FR... $" />
                 <marker date="1536721390000" expanded="true" signature="9999:10047" placeholder="SELECT * FRO... ${$wpdb-&gt;termmeta}" />
@@ -255,18 +111,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-includes/functions.php">
+      <file leaf-file-name="w-logo-blue.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/images/w-logo-blue.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="block-post-header-layout-1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/covernews/inc/hooks/blocks/block-post-header-layout-1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.25">
-              <caret line="3521" column="36" selection-start-line="3521" selection-start-column="36" selection-end-line="3521" selection-end-column="36" />
-              <folding>
-                <marker date="1536654949000" expanded="true" signature="17499:17603" placeholder="SELECT meta_... ${$wpdb-&gt;postmeta}" />
-                <marker date="1536654949000" expanded="true" signature="18662:18766" placeholder="SELECT post_... ${$wpdb-&gt;postmeta}" />
-                <marker date="1536654949000" expanded="true" signature="38643:38712" placeholder="SELECT optio... ${$wpdb-&gt;options}" />
-                <marker date="1536654949000" expanded="true" signature="148416:148510" placeholder="SELECT post_... ${$wpdb-&gt;postmeta}" />
-                <marker date="1536654949000" expanded="true" signature="148973:149073" placeholder="SELECT comme... ${$wpdb-&gt;commentmeta}" />
-              </folding>
+            <state vertical-scroll-proportion="-1.7058823">
+              <caret line="84" column="38" selection-start-line="84" selection-start-column="38" selection-end-line="84" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.43010753">
+              <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -274,6 +141,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="台北杰倫" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -286,6 +158,8 @@
         <option value="$PROJECT_DIR$/wp-content/languages/zh_TW.po" />
         <option value="$PROJECT_DIR$/wp-content/languages/plugins/jetpack-zh_TW.po" />
         <option value="$PROJECT_DIR$/wp-admin/includes/export.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/covernews/inc/hooks/blocks/block-post-header-layout-1.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
       </list>
     </option>
   </component>
@@ -293,6 +167,9 @@
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -346,20 +223,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ph-form" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ph-form" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -367,6 +230,11 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-includes/images" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -404,20 +272,28 @@
       <option name="number" value="Default" />
       <updated>1536655161355</updated>
     </task>
+    <task id="LOCAL-00001" summary="新增圖片">
+      <created>1536721694629</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536721694629</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="23" width="1920" height="1002" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -429,8 +305,20 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增圖片" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增圖片" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -568,11 +456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/images/w-logo-blue.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.25">
@@ -607,8 +490,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-admin/includes/export.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4090909">
-          <caret line="419" column="72" selection-start-line="419" selection-start-column="72" selection-end-line="419" selection-end-column="72" />
+        <state vertical-scroll-proportion="-19.625">
+          <caret line="427" column="54" selection-start-line="427" selection-start-column="54" selection-end-line="427" selection-end-column="54" />
           <folding>
             <marker date="1536721390000" expanded="true" signature="6013:6055" placeholder="SELECT ID FR... $" />
             <marker date="1536721390000" expanded="true" signature="9999:10047" placeholder="SELECT * FRO... ${$wpdb-&gt;termmeta}" />
@@ -618,6 +501,27 @@
             <marker date="1536721390000" expanded="true" signature="20650:20737" placeholder="SELECT * FRO... ${$wpdb-&gt;comments}" />
             <marker date="1536721390000" expanded="true" signature="21998:22052" placeholder="SELECT * FRO... ${$wpdb-&gt;commentmeta}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/images/w-logo-blue.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/covernews/inc/hooks/blocks/block-post-header-layout-1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7058823">
+          <caret line="84" column="38" selection-start-line="84" selection-start-column="38" selection-end-line="84" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43010753">
+          <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>

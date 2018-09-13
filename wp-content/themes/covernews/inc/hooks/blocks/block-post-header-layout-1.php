@@ -80,10 +80,14 @@ endif;
     <div class="masthead-banner <?php echo esc_attr($class); ?>" data-background="<?php echo esc_attr($background); ?>">
         <div class="container">
             <div class="row">
+                <div class="site-branding">
+                    <?php
+                    the_custom_logo();
+                    ?>
+                </div>
                 <div class="col-md-4">
                     <div class="site-branding">
                         <?php
-                        the_custom_logo();
                         if (is_front_page() || is_home()) : ?>
                             <h1 class="site-title font-family-1">
                                 <a href="<?php echo esc_url(home_url('/')); ?>"
