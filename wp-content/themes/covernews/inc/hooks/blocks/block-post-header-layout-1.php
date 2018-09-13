@@ -126,6 +126,62 @@ endif;
                 </div>
             </div>
         </div>
+
+
+
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-1" style="margin: 10px auto;">
+                    <?php
+                    the_custom_logo();
+                    ?>
+                </div>
+                <div class="col-md-4">
+                    <div class="site-branding" style="margin: 20px auto;">
+                        <?php
+                        if (is_front_page() || is_home()) : ?>
+                            <h1 class="site-title font-family-1">
+                                <a href="<?php echo esc_url(home_url('/')); ?>"
+                                   rel="home"><?php bloginfo('name'); ?></a>
+                            </h1>
+                        <?php else : ?>
+                            <p class="site-title font-family-1">
+                                <a href="<?php echo esc_url(home_url('/')); ?>"
+                                   rel="home"><?php bloginfo('name'); ?></a>
+                            </p>
+                        <?php endif; ?>
+
+                        <?php
+                        $description = get_bloginfo('description', 'display');
+                        if ($description || is_customize_preview()) : ?>
+                            <p class="site-description"><?php echo esc_html($description); ?></p>
+                            <?php
+                        endif; ?>
+                    </div>
+                </div>
+                <div class="col-md-7">
+                    <?php
+                    $advertisement_scope = covernews_get_option('banner_advertisement_scope');
+                    if ($advertisement_scope == 'site-wide') {
+
+                        do_action('covernews_action_banner_advertisement');
+                    } else {
+
+                        if (is_front_page() || is_home()) {
+                            do_action('covernews_action_banner_advertisement');
+                        }
+
+
+                    }
+                    ?>
+                </div>
+            </div>
+        </div>
+
+
+
+
     </div>
     <nav id="site-navigation" class="main-navigation">
         <div class="container">
