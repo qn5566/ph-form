@@ -17,7 +17,7 @@ if ((has_nav_menu('aft-top-nav')) || (has_nav_menu('aft-social-nav'))):
                 $show_date = covernews_get_option('show_date_section');
 
                 if (has_nav_menu('aft-top-nav') || ($show_date == true)): ?>
-                    <div class="col-xs-12 col-sm-12 col-md-8 device-center">
+                    <div class="col-xs-12 col-sm-12 device-center">
                         <?php
                         if ($show_date == true): ?>
                             <span class="topbar-date">
@@ -39,6 +39,22 @@ if ((has_nav_menu('aft-top-nav')) || (has_nav_menu('aft-social-nav'))):
                             ));
                         }
 
+                        ?>
+                    </div>
+                <?php endif; ?>
+                <?php
+                 = covernews_get_option('show_social_menu_section');
+                if (has_nav_menu('aft-social-nav') && $show_social_menu == true): ?>
+                    <div class="col-xs-12 col-sm-12 col-md-4 pull-right">
+                        <?php
+                        wp_nav_menu(array(
+                            'theme_location' => 'aft-social-nav',
+                            'link_before' => '<span class="screen-reader-text">',
+                            'link_after' => '</span>',
+                            'menu_id' => 'social-menu',
+                            'container' => 'div',
+                            'container_class' => 'social-navigation'
+                        ));
                         ?>
                     </div>
                 <?php endif; ?>
