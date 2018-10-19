@@ -33,16 +33,16 @@ if (is_front_page() || is_home() ) {
     }
 }
 
-echo '$post_options:'.$post_options."\n";
-echo 'is_singular:'.is_singular()."\n";
-echo 'is_front_page:'.is_front_page()."\n";
-echo 'is_home:'.is_home()."\n";
-echo '$page_layout:'.$page_layout."\n";
+//echo '$post_options:'.$post_options."\n";
+//echo 'is_singular:'.is_singular()."\n";
+//echo 'is_front_page:'.is_front_page()."\n";
+//echo 'is_home:'.is_home()."\n";
+//echo '$page_layout:'.$page_layout."\n";
 //if(){
 //    return;
 //}
 
-if ($page_layout == 'full-width-content') {
+if ($page_layout == 'full-width-content' || empty($post_options) ) {
     return;
 }
 
