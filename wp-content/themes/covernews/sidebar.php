@@ -33,7 +33,10 @@ if (is_front_page() || is_home() ) {
     }
 }
 
-echo '$page_layout:'.$page_layout;
+echo 'is_singular:'.is_singular()."\n";
+echo 'is_front_page:'.is_front_page()."\n";
+echo 'is_home:'.is_home()."\n";
+echo '$page_layout:'.$page_layout."\n";
 //if(){
 //    return;
 //}
