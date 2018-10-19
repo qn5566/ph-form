@@ -1,6 +1,6 @@
 jQuery( document ).ready( function( $ ) {
 	var body = $( 'body' ),
-		toggleSSO = $( '.jetpack-sso-toggle' ),
+        toggleSSO = $( '.jetpack-sso-toggle' ),
 		userLogin = $( '#user_login' ),
 		ssoWrap   = $( '#jetpack-sso-wrap' ),
 		loginForm = $( '#loginform' ),

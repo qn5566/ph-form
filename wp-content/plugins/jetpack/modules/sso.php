@@ -172,7 +172,8 @@ class Jetpack_SSO {
 			 * But, the method could be filtered by a site admin to always show the default login form if that is preferred.
 			 */
 			if ( empty( $_GET['jetpack-sso-show-default-form'] ) && Jetpack_SSO_Helpers::show_sso_login() ) {
-				$classes[] = 'jetpack-sso-form-display';
+//              切換登入畫面
+//				$classes[] = 'jetpack-sso-form-display';
 			}
 		}
 
@@ -468,64 +469,64 @@ class Jetpack_SSO {
 			: false;
 
 		?>
-		<div id="jetpack-sso-wrap">
-			<?php if ( $display_name && $gravatar ) : ?>
-				<div id="jetpack-sso-wrap__user">
-					<img width="72" height="72" src="<?php echo esc_html( $gravatar ); ?>" />
-
-					<h2>
-						<?php
-							echo wp_kses(
-								sprintf( __( 'Log in as <span>%s</span>', 'jetpack' ), esc_html( $display_name ) ),
-								array( 'span' => true )
-							);
-						?>
-					</h2>
-				</div>
-
-			<?php endif; ?>
-
-
-			<div id="jetpack-sso-wrap__action">
-				<?php echo $this->build_sso_button( array(), 'is_primary' ); ?>
-
-				<?php if ( $display_name && $gravatar ) : ?>
-					<a rel="nofollow" class="jetpack-sso-wrap__reauth" href="<?php echo esc_url( $this->build_sso_button_url( array( 'force_reauth' => '1' ) ) ); ?>">
-						<?php esc_html_e( 'Log in as a different WordPress.com user', 'jetpack' ); ?>
-					</a>
-				<?php else : ?>
-					<p>
-						<?php
-							echo esc_html(
-								sprintf(
-									__( 'You can now save time spent logging in by connecting your WordPress.com account to %s.', 'jetpack' ),
-									esc_html( $site_name )
-								)
-							);
-						?>
-					</p>
-				<?php endif; ?>
-			</div>
-
-			<?php if ( ! Jetpack_SSO_Helpers::should_hide_login_form() ) : ?>
-				<div class="jetpack-sso-or">
-					<span><?php esc_html_e( 'Or', 'jetpack' ); ?></span>
-				</div>
-
-				<a href="<?php echo esc_url( add_query_arg( 'jetpack-sso-show-default-form', '1' ) ); ?>" class="jetpack-sso-toggle wpcom">
-					<?php
-						esc_html_e( 'Log in with username and password', 'jetpack' )
-					?>
-				</a>
-
-				<a href="<?php echo esc_url( add_query_arg( 'jetpack-sso-show-default-form', '0' ) ); ?>" class="jetpack-sso-toggle default">
-					<?php
-						esc_html_e( 'Log in with WordPress.com', 'jetpack' )
-					?>
-				</a>
-			<?php endif; ?>
-		</div>
-		<?php
+<!--		<div id="jetpack-sso-wrap">-->
+<!--			--><?php //if ( $display_name && $gravatar ) : ?>
+<!--				<div id="jetpack-sso-wrap__user">-->
+<!--					<img width="72" height="72" src="--><?php //echo esc_html( $gravatar ); ?><!--" />-->
+<!---->
+<!--					<h2>-->
+<!--						--><?php
+//							echo wp_kses(
+//								sprintf( __( 'Log in as <span>%s</span>', 'jetpack' ), esc_html( $display_name ) ),
+//								array( 'span' => true )
+//							);
+//						?>
+<!--					</h2>-->
+<!--				</div>-->
+<!---->
+<!--			--><?php //endif; ?>
+<!---->
+<!---->
+<!--			<div id="jetpack-sso-wrap__action">-->
+<!--				--><?php //echo $this->build_sso_button( array(), 'is_primary' ); ?>
+<!---->
+<!--				--><?php //if ( $display_name && $gravatar ) : ?>
+<!--					<a rel="nofollow" class="jetpack-sso-wrap__reauth" href="--><?php //echo esc_url( $this->build_sso_button_url( array( 'force_reauth' => '1' ) ) ); ?><!--">-->
+<!--						--><?php //esc_html_e( 'Log in as a different WordPress.com user', 'jetpack' ); ?>
+<!--					</a>-->
+<!--				--><?php //else : ?>
+<!--					<p>-->
+<!--						--><?php
+//							echo esc_html(
+//								sprintf(
+//									__( 'You can now save time spent logging in by connecting your WordPress.com account to %s.', 'jetpack' ),
+//									esc_html( $site_name )
+//								)
+//							);
+//						?>
+<!--					</p>-->
+<!--				--><?php //endif; ?>
+<!--			</div>-->
+<!---->
+<!--			--><?php //if ( ! Jetpack_SSO_Helpers::should_hide_login_form() ) : ?>
+<!--				<div class="jetpack-sso-or">-->
+<!--					<span>--><?php //esc_html_e( 'Or', 'jetpack' ); ?><!--</span>-->
+<!--				</div>-->
+<!---->
+<!--				<a href="--><?php //echo esc_url( add_query_arg( 'jetpack-sso-show-default-form', '1' ) ); ?><!--" class="jetpack-sso-toggle wpcom">-->
+<!--					--><?php
+//						esc_html_e( 'Log in with username and password', 'jetpack' )
+//					?>
+<!--				</a>-->
+<!---->
+<!--				<a href="--><?php //echo esc_url( add_query_arg( 'jetpack-sso-show-default-form', '0' ) ); ?><!--" class="jetpack-sso-toggle default">-->
+<!--					--><?php
+//						esc_html_e( 'Log in with WordPress.com', 'jetpack' )
+//					?>
+<!--				</a>-->
+<!--			--><?php //endif; ?>
+<!--		</div>-->
+<!--		--><?php
 	}
 
 	/**

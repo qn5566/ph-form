@@ -33,7 +33,10 @@ if (is_front_page() || is_home() ) {
     }
 }
 
-
+echo '$page_layout:'.$page_layout;
+//if(){
+//    return;
+//}
 
 if ($page_layout == 'full-width-content') {
     return;
