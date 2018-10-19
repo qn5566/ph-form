@@ -33,6 +33,7 @@ if (is_front_page() || is_home() ) {
     }
 }
 
+echo '$post_options:'.$post_options."\n";
 echo 'is_singular:'.is_singular()."\n";
 echo 'is_front_page:'.is_front_page()."\n";
 echo 'is_home:'.is_home()."\n";
